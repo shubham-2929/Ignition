@@ -1,8 +1,0 @@
-{
-  "dataType": "String",
-  "defaultValue": "hello gi",
-  "name": "exporting",
-  "tagType": "AtomicTag",
-  "value": "hello gi",
-  "valueSource": "memory"
-}
