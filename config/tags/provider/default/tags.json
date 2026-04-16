@@ -1,0 +1,19 @@
+{
+  "tags": [
+    {
+      "defaultValue": 56,
+      "name": "testing",
+      "tagType": "AtomicTag",
+      "value": 56,
+      "valueSource": "memory"
+    },
+    {
+      "dataType": "String",
+      "defaultValue": "hegeh",
+      "name": "tetest",
+      "tagType": "AtomicTag",
+      "value": "hegeh",
+      "valueSource": "memory"
+    }
+  ]
+}
