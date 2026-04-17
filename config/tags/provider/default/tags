@@ -1,0 +1,18 @@
+{
+  "tags": [
+    {
+      "name": "testing",
+      "tagType": "AtomicTag",
+      "valueSource": "memory",
+      "dataType": "Int4",
+      "value": 56
+    },
+    {
+      "name": "testest",
+      "tagType": "AtomicTag",
+      "valueSource": "memory",
+      "dataType": "String",
+      "value": "hegeh"
+    }
+  ]
+}
